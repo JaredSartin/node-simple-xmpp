@@ -16,7 +16,7 @@
     ],
 
     "dependencies": {
-        "node-xmpp": "git@github.com:JaredSartin/node-xmpp.git",
+        "node-xmpp": "git://github.com:JaredSartin/node-xmpp.git",
         "qbox": "0.1.3"
     },
 
